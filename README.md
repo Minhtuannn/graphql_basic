@@ -3,4 +3,5 @@
 ### Quick start
 
 - Go to working dir
-- Run command `npm start` or `yarn start`
+- Install dependencies with command `npm install` or `yarn`
+- Start graphql server with command `npm start` or `yarn start`
