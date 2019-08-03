@@ -1,0 +1,13 @@
+type: Query {
+    greeting: String
+    Techcombank: [techcombank]
+    techcombankByMetadata(md:metadata!): techcombank
+}
+
+type techcombank {
+    amount: Int
+    note: String
+    original_currency: String
+    type: Int
+    metadata: String
+}
