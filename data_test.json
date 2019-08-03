@@ -1,0 +1,23 @@
+{
+    "RECORDS": [
+        {
+            "amount": "13000000",
+            "note": "MBVCB149649463.tuy.CT tu 0311000699 786 LE MINH TUY toi 19032862948017 LE MINH TUY KY THUONG VN (TECH / FT19081313189239",
+            "original_currency": "VND",
+            "type": "1",
+            "metadata": "IS_OTHER_INCOME"
+        },
+        {
+            "amount": "88000",
+            "note": "VND-TGTT-NGUYEN VAN MANH / FT19100380549325",
+            "original_currency": "VND",
+            "type": "1",
+            "metadata": "IS_OTHER_INCOME"
+        },
+        {
+            "amount": "85000",
+            "note": "Tuy / FT19053865331650",
+            "original_currency": "VND",
+            "type": "2",
+            "metadata": "IS_OTHER_EXPENSE"
+        }
